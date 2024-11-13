@@ -28,7 +28,7 @@
 				<v-list-item
 					v-for="(category, index) in categories"
 					:key="index"
-					class="hover:bg-black/20 smooth_effect rounded-lg mx-2"
+					class="mx-2 rounded-lg hover:bg-black/10 smooth_effect"
 				>
 					<v-list-item-title>
 						<a
